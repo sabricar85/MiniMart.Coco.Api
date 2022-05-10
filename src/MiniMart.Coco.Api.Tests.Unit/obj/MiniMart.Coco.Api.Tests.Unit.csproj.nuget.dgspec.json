@@ -1,0 +1,284 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api.Tests.Unit\\MiniMart.Coco.Api.Tests.Unit.csproj": {}
+  },
+  "projects": {
+    "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api.Dtos\\MiniMart.Coco.Api.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api.Dtos\\MiniMart.Coco.Api.Dtos.csproj",
+        "projectName": "MiniMart.Coco.Api.Dtos",
+        "projectPath": "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api.Dtos\\MiniMart.Coco.Api.Dtos.csproj",
+        "packagesPath": "C:\\Users\\sbi_cardenasS\\.nuget\\packages\\",
+        "outputPath": "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sbi_cardenasS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sancristobalctd.pkgs.visualstudio.com/_packaging/gruposancristobal/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api.Tests.Unit\\MiniMart.Coco.Api.Tests.Unit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api.Tests.Unit\\MiniMart.Coco.Api.Tests.Unit.csproj",
+        "projectName": "MiniMart.Coco.Api.Tests.Unit",
+        "projectPath": "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api.Tests.Unit\\MiniMart.Coco.Api.Tests.Unit.csproj",
+        "packagesPath": "C:\\Users\\sbi_cardenasS\\.nuget\\packages\\",
+        "outputPath": "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api.Tests.Unit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sbi_cardenasS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sancristobalctd.pkgs.visualstudio.com/_packaging/gruposancristobal/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api.Dtos\\MiniMart.Coco.Api.Dtos.csproj": {
+                "projectPath": "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api.Dtos\\MiniMart.Coco.Api.Dtos.csproj"
+              },
+              "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api\\MiniMart.Coco.Api.csproj": {
+                "projectPath": "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api\\MiniMart.Coco.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.1.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api\\MiniMart.Coco.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api\\MiniMart.Coco.Api.csproj",
+        "projectName": "MiniMart.Coco.Api",
+        "projectPath": "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api\\MiniMart.Coco.Api.csproj",
+        "packagesPath": "C:\\Users\\sbi_cardenasS\\.nuget\\packages\\",
+        "outputPath": "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sbi_cardenasS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sancristobalctd.pkgs.visualstudio.com/_packaging/gruposancristobal/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api.Dtos\\MiniMart.Coco.Api.Dtos.csproj": {
+                "projectPath": "D:\\MiniMart.Coco.Api\\src\\MiniMart.Coco.Api.Dtos\\MiniMart.Coco.Api.Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.24, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.24, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Swashbuckle.AspNetCore.Filters.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[5.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

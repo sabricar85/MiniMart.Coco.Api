@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MiniMart.Coco.Api</name>
+    </assembly>
+    <members>
+        <member name="M:MiniMart.Coco.Api.Controllers.ConfigurationController.Setup">
+            <summary>
+            Create database, tables and records
+            </summary>
+            <remarks>
+            </remarks>
+            <param /> 
+            <returns>confirm database created</returns>
+        </member>
+        <member name="M:MiniMart.Coco.Api.Controllers.ProductController.getAvailableProduct">
+            <summary>
+            Available Product,across stores
+            </summary>
+            <remarks>
+            </remarks>
+            <param>Store</param>
+            <returns>/ Available Product</returns>
+        </member>
+        <member name="M:MiniMart.Coco.Api.Controllers.StoreController.get(MiniMart.Coco.Api.Dtos.Requests.availableStoreRequest)">
+            <summary>
+            Available stores 
+            </summary>
+            <remarks>
+            </remarks>
+            <param name="query"></param>
+            <returns>/ Available stores</returns>
+        </member>
+        <member name="M:MiniMart.Coco.Api.Controllers.VirtualCartController.AddProducts(MiniMart.Coco.Api.Dtos.Requests.AddedProductsRequest)">
+            <summary>
+            returns the products that were added to the cart
+            </summary>
+            <remarks>
+            </remarks>
+            <param name="request"></param>
+            <returns>returns the products that were added to the cart</returns>
+        </member>
+        <member name="M:MiniMart.Coco.Api.Controllers.VirtualCartController.DeletedProduct(MiniMart.Coco.Api.Dtos.Requests.DeletedProductRequest)">
+            <summary>
+            delete a product
+            </summary>
+            <remarks>
+            </remarks>
+            <param /> 
+            <returns> removes a product and returns products of the same type that are in the cart</returns>
+        </member>
+        <member name="T:MiniMart.Coco.Api.Localization.Messages">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:MiniMart.Coco.Api.Localization.Messages.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:MiniMart.Coco.Api.Localization.Messages.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:MiniMart.Coco.Api.Localization.Messages.ArgumentNullMessage">
+            <summary>
+              Looks up a localized string similar to Value cannot be null:.
+            </summary>
+        </member>
+        <member name="P:MiniMart.Coco.Api.Localization.Messages.InvalidDate">
+            <summary>
+              Looks up a localized string similar to Today&apos;s date isn´t inside the voucher&apos;s date range.
+            </summary>
+        </member>
+        <member name="P:MiniMart.Coco.Api.Localization.Messages.InvalidDayOfWeek">
+            <summary>
+              Looks up a localized string similar to Today&apos;s  week day isn&apos;t inside the voucher&apos;s week day range.
+            </summary>
+        </member>
+        <member name="P:MiniMart.Coco.Api.Localization.Messages.InvalidStore">
+            <summary>
+              Looks up a localized string similar to voucher not valid for this store.
+            </summary>
+        </member>
+        <member name="P:MiniMart.Coco.Api.Localization.Messages.InvalidVoucher">
+            <summary>
+              Looks up a localized string similar to Invalid Voucher.
+            </summary>
+        </member>
+        <member name="P:MiniMart.Coco.Api.Localization.Messages.VoucherNoApply">
+            <summary>
+              Looks up a localized string similar to VoucherNoApply.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,657 @@
+D:\tiendavirtual\billingCenter-api-v3\src\BillingCenter.Api.Billing\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.csprojAssemblyReference.cache
+D:\tiendavirtual\billingCenter-api-v3\src\BillingCenter.Api.Billing\obj\Debug\netcoreapp3.1\staticwebassets\MiniMart.Coco.Api.StaticWebAssets.Manifest.cache
+D:\tiendavirtual\billingCenter-api-v3\src\BillingCenter.Api.Billing\obj\Debug\netcoreapp3.1\staticwebassets\MiniMart.Coco.Api.StaticWebAssets.xml
+D:\tiendavirtual\billingCenter-api-v3\src\BillingCenter.Api.Billing\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.Localization.Messages.resources
+D:\tiendavirtual\billingCenter-api-v3\src\BillingCenter.Api.Billing\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.csproj.GenerateResource.cache
+D:\tiendavirtual\billingCenter-api-v3\src\BillingCenter.Api.Billing\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\tiendavirtual\billingCenter-api-v3\src\BillingCenter.Api.Billing\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\tiendavirtual\billingCenter-api-v3\src\BillingCenter.Api.Billing\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.AssemblyInfoInputs.cache
+D:\tiendavirtual\billingCenter-api-v3\src\BillingCenter.Api.Billing\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.AssemblyInfo.cs
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.csprojAssemblyReference.cache
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\staticwebassets\MiniMart.Coco.Api.StaticWebAssets.Manifest.cache
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\staticwebassets\MiniMart.Coco.Api.StaticWebAssets.xml
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.Localization.Messages.resources
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.csproj.GenerateResource.cache
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.AssemblyInfoInputs.cache
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.AssemblyInfo.cs
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.exe
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.deps.json
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.runtimeconfig.json
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.runtimeconfig.dev.json
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.pdb
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.xml
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.Dtos.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.Dtos.pdb
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.Dtos.xml
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.RazorTargetAssemblyInfo.cache
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.csproj.CopyComplete
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.xml
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.pdb
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\tiendavirtual\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.csprojAssemblyReference.cache
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\staticwebassets\MiniMart.Coco.Api.StaticWebAssets.Manifest.cache
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\staticwebassets\MiniMart.Coco.Api.StaticWebAssets.xml
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.Localization.Messages.resources
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.csproj.GenerateResource.cache
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.AssemblyInfoInputs.cache
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.AssemblyInfo.cs
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.exe
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.deps.json
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.runtimeconfig.json
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.runtimeconfig.dev.json
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.pdb
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.xml
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.Dtos.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.Dtos.pdb
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.Dtos.xml
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.RazorTargetAssemblyInfo.cache
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.csproj.CopyComplete
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.xml
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.pdb
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Scrutor.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\tiendavirtual\MiniMart.Coco.Api ANTERIOR\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.exe
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.deps.json
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.runtimeconfig.json
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.runtimeconfig.dev.json
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.pdb
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.xml
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Scrutor.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.Dtos.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.Dtos.pdb
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.Dtos.xml
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.csprojAssemblyReference.cache
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\staticwebassets\MiniMart.Coco.Api.StaticWebAssets.Manifest.cache
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\staticwebassets\MiniMart.Coco.Api.StaticWebAssets.xml
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.Localization.Messages.resources
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.csproj.GenerateResource.cache
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.AssemblyInfoInputs.cache
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.AssemblyInfo.cs
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.RazorTargetAssemblyInfo.cache
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.csproj.CopyComplete
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.dll
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.xml
+D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.pdb
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.exe
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.deps.json
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.runtimeconfig.json
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.runtimeconfig.dev.json
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.pdb
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.xml
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Scrutor.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.Dtos.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.Dtos.pdb
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\bin\Debug\netcoreapp3.1\MiniMart.Coco.Api.Dtos.xml
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.csprojAssemblyReference.cache
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\staticwebassets\MiniMart.Coco.Api.StaticWebAssets.Manifest.cache
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\staticwebassets\MiniMart.Coco.Api.StaticWebAssets.xml
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.Localization.Messages.resources
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.csproj.GenerateResource.cache
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.AssemblyInfoInputs.cache
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.AssemblyInfo.cs
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.RazorTargetAssemblyInfo.cache
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.csproj.CopyComplete
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.xml
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api\obj\Debug\netcoreapp3.1\MiniMart.Coco.Api.pdb
