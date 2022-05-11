@@ -14,9 +14,12 @@ namespace MiniMart.Coco.Api.Domain
 
         [ForeignKey("Store")]
         public int StoreID { get; set; }
+        public Store Store { get; set; }
+
 
         [ForeignKey("Category")]
         public int CategoryID { get; set; }
+        public Category Category { get; set; }
 
         public int? DayNumber { get; set; }
         public DateTime StartDate { get; set; }
@@ -25,5 +28,7 @@ namespace MiniMart.Coco.Api.Domain
         [ForeignKey("Discount")]
         public int DiscountID { get; set; }
         public Discount Discount { get; set; }
+
+  
     }
 }

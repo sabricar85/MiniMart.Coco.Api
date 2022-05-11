@@ -67,6 +67,7 @@
             </summary>
             <remarks>
             Set the info of the product you want to delete. The product will be returned with your information if it was eliminated and the total price of the updated cart
+            The number of products that need to be deleted should not be entered as a parameter, it is understood that only one will be deleted
             setear la info del producto que se desea eliminar.   Se retornará el producto con su informacion si fue eliminado y el precio total del carrito actualizado
             </remarks>
             <param name="query"></param>
