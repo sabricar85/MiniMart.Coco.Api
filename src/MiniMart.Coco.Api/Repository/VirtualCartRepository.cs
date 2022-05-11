@@ -31,15 +31,25 @@ namespace MiniMart.Coco.Api.Repository
             int  rowAfected=  dbContext.SaveChanges();
             if (rowAfected>0)
             {
-                List<Voucher> vouchers = getVouchers(DeletedProductRequest.VoucherCode);
-                DeletedProductResponse.Voucher = ValidVoucherBAsicData(vouchers, DeletedProductRequest.StoreID);
+                List<Voucher> vouchers = new List<Voucher>();
+                if (DeletedProductRequest.VoucherCode != null)
+                {
+                    vouchers = getVouchers(DeletedProductRequest.VoucherCode);
+                    DeletedProductResponse.Voucher = ValidVoucherBAsicData(vouchers, DeletedProductRequest.StoreID);
+                }
+                else
+                {
+                    DeletedProductResponse.Voucher = new ApplyVoucherDto { applyVoucher = false, Message = Localization.Messages.VoucherNoApply };
+                }
+                
 
 
                 DeletedProductResponse.product = await populateProduct(DeletedProductRequest.ProductDelete, vouchers, DeletedProductRequest.StoreID, DeletedProductResponse.Voucher.applyVoucher);
-                DeletedProductResponse.product.Quantity = DeletedProductResponse.product.Quantity;
+                DeletedProductResponse.product.Quantity = DeletedProductResponse.product.Quantity - deleteUneUnit;
                 DeletedProductResponse.VoucherCode = DeletedProductRequest.VoucherCode;
                 DeletedProductResponse.StoreID = DeletedProductRequest.StoreID;
             }
+            DeletedProductResponse.TotalPrice = DeletedProductRequest.TotalPrice - DeletedProductRequest.TotalPriceProducts + DeletedProductResponse.product.TotalPriceProducts;
             return DeletedProductResponse;
         }
         public async Task<AddedProductsResponse> AddProducts(AddedProductsRequest AddedProductsRequest)
@@ -51,9 +61,16 @@ namespace MiniMart.Coco.Api.Repository
 
                 List<Voucher> vouchers = new List<Voucher>();
 
+                if (AddedProductsRequest.VoucherCode != null)
+                {
                     vouchers = getVouchers(AddedProductsRequest.VoucherCode);
-
                     AddedProductsResponse.Voucher = ValidVoucherBAsicData(vouchers, AddedProductsRequest.StoreID);
+                }
+                else
+                {
+                    AddedProductsResponse.Voucher = new ApplyVoucherDto { applyVoucher = false, Message = Localization.Messages.VoucherNoApply };
+                }
+           
 
                 foreach (var productCart in AddedProductsRequest.Products)
                 {
@@ -72,11 +89,11 @@ namespace MiniMart.Coco.Api.Repository
                     if (update)
                      {
                         ProductDto = await populateProduct(productCart, vouchers, AddedProductsRequest.StoreID, AddedProductsResponse.Voucher.applyVoucher);
-                        ProductDto.Added = true; 
+                        ProductDto.Action = true; 
                     }
                     else
                     {
-                        ProductDto.Added = false;
+                        ProductDto.Action = false;
                         ProductDto.ID = productCart.ProductID;
                     }
                        
@@ -104,7 +121,7 @@ namespace MiniMart.Coco.Api.Repository
             ProductDto.CategoryID = productCart.CategoryID;
             ProductDto.Quantity = productCart.Quantity;
 
-            ProductDto.Added = true;
+            ProductDto.Action = true;
 
             Discount discount = null;
 

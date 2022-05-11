@@ -25,9 +25,11 @@ namespace MiniMart.Coco.Api.Controllers
         /// returns the products that were added to the cart
         /// </summary>
         /// <remarks>
+        /// Añade productos al carrito y descuenta las unidades que fueron añadidas al carrito
+        /// Add products to the cart and discount the units that were added to the cart
         /// </remarks>
         /// <param name="request"></param>
-        /// <returns>returns the products that were added to the cart</returns>
+        /// <returns>returns the products that were added to the cart with prices </returns>
         [HttpPost]
         [Route("api/AddProducts")]
         public async Task<ActionResult<AddedProductsResponse>> AddProducts([FromBody] AddedProductsRequest request)
@@ -40,9 +42,11 @@ namespace MiniMart.Coco.Api.Controllers
         /// delete a product
         /// </summary>
         /// <remarks>
+        /// Set the info of the product you want to delete. The product will be returned with your information if it was eliminated and the total price of the updated cart
+        /// setear la info del producto que se desea eliminar.   Se retornará el producto con su informacion si fue eliminado y el precio total del carrito actualizado
         /// </remarks>
-        /// <param /> 
-        /// <returns> removes a product and returns products of the same type that are in the cart</returns>
+        /// <param name="query"></param>
+        /// <returns>delete product</returns>
         [HttpPost]
         [Route("api/DeletedProduct")]
         public async Task<ActionResult<DeletedProductResponse>> DeletedProduct([FromBody, Required] DeletedProductRequest query)

@@ -10,6 +10,7 @@ namespace MiniMart.Coco.Api.Dtos.Requests
     public class DeletedProductRequest : Query, IRequest<DeletedProductResponse>
     {
         public QueryProductDto ProductDelete { get; set; }
+        public decimal TotalPriceProducts { get; set; }
         public decimal TotalPrice { get; set; }
 
 

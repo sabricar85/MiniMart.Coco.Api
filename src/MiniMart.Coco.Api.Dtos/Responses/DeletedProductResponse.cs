@@ -9,5 +9,8 @@ namespace MiniMart.Coco.Api.Dtos.Responses
     {
         public ProductDto  product  { get; set; }
         public ApplyVoucherDto Voucher { get; set; }
+
+        public decimal TotalPrice { get; set; }
+
     }
 }

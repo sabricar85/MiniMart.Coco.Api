@@ -36,12 +36,12 @@ namespace MiniMart.Coco.Api.Controllers
             return response;
         }
         /// <summary>
-        /// Available ProductS By Store
+        /// Available Products By Store
         /// </summary>
         /// <remarks>
         /// </remarks>
         /// <param name="Store"></param>
-        /// <returns> Available Product</returns>
+        /// <returns> return Available Product</returns>
         [HttpGet]
         [Route("api/AvailableProductSByStore")]
         public async Task<ActionResult<AvailableProductsResponse>> getAvailableProducts([FromQuery] AvailableProductByStoreRequest Store)
@@ -49,6 +49,15 @@ namespace MiniMart.Coco.Api.Controllers
             var response = await this.mediator.Send(Store);
             return response;
         }
+        /// <summary>
+        /// Available Products By Store and product
+        /// </summary>
+        /// <remarks>
+        /// Available Products By Store and product
+        /// </remarks>
+        /// <param name="Store"></param>
+        /// <returns> return Available Product</returns>
+        /// 
         [HttpGet]
         [Route("api/AvailableProductByStoreAndProduct")]
         public async Task<ActionResult<AvailableProductsResponse>> getAvailableProductByStoreAndProduct([FromQuery] AvailableProductByStoreAndProductRequest Store)

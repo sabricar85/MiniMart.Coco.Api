@@ -6,7 +6,7 @@ namespace MiniMart.Coco.Api.Dtos
 {
     public class ProductDto
     {
-        public bool Added { get; set; }
+        public bool Action { get; set; }
         public int ID { get; set; }
         public int CategoryID { get; set; }
         public int Quantity { get; set; }

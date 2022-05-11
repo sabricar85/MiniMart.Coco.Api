@@ -38,3 +38,13 @@ D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api.Dtos\
 D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api.Dtos\obj\Debug\netstandard2.0\MiniMart.Coco.Api.Dtos.dll
 D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api.Dtos\obj\Debug\netstandard2.0\MiniMart.Coco.Api.Dtos.xml
 D:\tiendavirtual\MiniMart.Coco.Api\MiniMart.Coco.Api\src\MiniMart.Coco.Api.Dtos\obj\Debug\netstandard2.0\MiniMart.Coco.Api.Dtos.pdb
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api.Dtos\obj\Debug\netstandard2.0\MiniMart.Coco.Api.Dtos.csprojAssemblyReference.cache
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api.Dtos\obj\Debug\netstandard2.0\MiniMart.Coco.Api.Dtos.AssemblyInfoInputs.cache
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api.Dtos\obj\Debug\netstandard2.0\MiniMart.Coco.Api.Dtos.AssemblyInfo.cs
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api.Dtos\obj\Debug\netstandard2.0\MiniMart.Coco.Api.Dtos.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api.Dtos\obj\Debug\netstandard2.0\MiniMart.Coco.Api.Dtos.xml
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api.Dtos\obj\Debug\netstandard2.0\MiniMart.Coco.Api.Dtos.pdb
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api.Dtos\bin\Debug\netstandard2.0\MiniMart.Coco.Api.Dtos.deps.json
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api.Dtos\bin\Debug\netstandard2.0\MiniMart.Coco.Api.Dtos.dll
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api.Dtos\bin\Debug\netstandard2.0\MiniMart.Coco.Api.Dtos.pdb
+D:\MiniMart.Coco.Api\src\MiniMart.Coco.Api.Dtos\bin\Debug\netstandard2.0\MiniMart.Coco.Api.Dtos.xml
